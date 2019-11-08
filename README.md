@@ -7,5 +7,3 @@ To install,
     sudo pip3 install xxxx.whl
 
 Prepared directly on a Raspberry Pi 4B (4 GB RAM).
-
-Coming soon
