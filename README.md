@@ -3,7 +3,7 @@
 Wheel files for installing Pytorch 1.4.0 and Pytorch version 0.5.0 on Raspberry Pi 4B
 
 
-To install (assuming all the ependenies have already been installed)
+To install (assuming all the dependencies have already been installed)
 
     sudo pip3 install xxxx.whl
 
