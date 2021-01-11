@@ -12,4 +12,6 @@ Built directly on a Raspberry Pi 4B (4 GB RAM) running Raspbian Buster.
 
 For detailed installation instructions (and how the wheel files were created), please visit
 
+https://sites.google.com/view/steam-for-vision
+
 https://sites.google.com/view/steam-for-vision/raspberry-pi/PytorchRP4
