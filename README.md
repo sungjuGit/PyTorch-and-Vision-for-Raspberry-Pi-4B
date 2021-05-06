@@ -2,10 +2,8 @@
 
 Wheel files for installing Pytorch 1.4.0 and Pytorch Vision version 0.5.0 on Raspberry Pi 4B
 
-Newer versions (Pytorch 1.8 and Pytorch Vision version 0.9) are by CW-B-W (https://github.com/CW-B-W) and added here just for your convenience.  They were not independently verified by us.
 
-
-Please direct all inquiries about these newer versions to CW-B-W.
+(Note: Newer versions (Pytorch 1.8 and Pytorch Vision version 0.9) are by CW-B-W (https://github.com/CW-B-W) and added here just for your convenience.  They were not independently verified by us. Please direct all inquiries about these newer versions to CW-B-W.)
 
 
 
